@@ -4,7 +4,6 @@ from src.crm import check_new, api_parsing, open_hashes, compare_images, update_
 import asyncio
 import traceback
 from telethon import events
-
 import os
 from dotenv import load_dotenv
 
